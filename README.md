@@ -9,13 +9,16 @@
 
 - 🤝 I’m looking for help with **miniRT 42 project.**
 
-- Some 42 projects are available here :
+- 🏫 Some 42 projects are available here :
 
+<div align="left">
 
-<div align="center">
-https://github.com/pcheron-root/push_swap
-<a href="https://github.com/pcheron-root/push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
-<a href="https://github.com/mcombeau/get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png)</a>
+<a href="https://github.com/pcheron-root/push_swap">
+    <img src="https://github.com/pcheron-root/pcheron-root/raw/main/img/push_swap.png" alt="push_swap">
+  </a>
+<a href="https://github.com/pcheron-root/pipex">
+    <img src="https://github.com/pcheron-root/pcheron-root/raw/main/img/pipex.png" alt="pipex">
+  </a>
 
 <!-- 
 - 👨‍💻 Some of my projects are available at [https://github.com/pcheron-root?tab=repositories](https://github.com/pcheron-root?tab=repositories)
