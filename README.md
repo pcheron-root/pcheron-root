@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pablo</h1>
+<h1 align="center">👋 Hi, I'm Pablo</h1>
 <h3 align="center">A passionate developer studying at 42 Paris</h3>
 
 - 🔭 I’m currently working on **miniRT 42 project.**
