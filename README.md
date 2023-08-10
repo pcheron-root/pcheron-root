@@ -9,7 +9,18 @@
 
 - 🤝 I’m looking for help with **miniRT 42 project.**
 
+- Some 42 projects are available here :
+
+
+<div align="center">
+https://github.com/pcheron-root/push_swap
+<a href="https://github.com/pcheron-root/push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
+<a href="https://github.com/mcombeau/get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png)</a>
+
+<!-- 
 - 👨‍💻 Some of my projects are available at [https://github.com/pcheron-root?tab=repositories](https://github.com/pcheron-root?tab=repositories)
+-->
+</div>
 
 - 💬 Ask me about **UNIX processes and branchless programming.**
 
