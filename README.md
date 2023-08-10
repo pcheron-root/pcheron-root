@@ -25,7 +25,7 @@
 -->
 </div>
 
-- 💬 Ask me about **UNIX processes and branchless programming.**
+- 💬 Ask me about **UNIX processes and branchless programming, I'm well-versed.**
 
 - 📫 How to reach me **pablo.cheron@proton.me**
 
