@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **miniRT 42 project.**
 
-- 🏫 Some 42 projects are available here :
+- 🏫 Some of my 42 projects are available here :
 
 <div align="left">
 
