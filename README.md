@@ -21,14 +21,18 @@ text<br>
 <details>
 <summary>UNIX</summary>
 <strong>pipex</strong><br>
-text<br>
+The aim of the project is to reproduce operation of pipes in C.<br>
+We also discover many UNIX concept like parent/child process or file descriptor duplication.<br>
 <strong>minishell</strong><br>
-text<br>
+This project is about creating a simple shell.<br>
 </details>
 <details>
 <summary>ALGO</summary>
 <strong>push_swap</strong><br>
-text<br>
+In this project, we have to sort data on a stack,<br>
+with a limited set of instructions,<br>
+using the smallest possible number of actions,<br>
+for an optimized data sorting.<br>
 <strong>modules C++</strong><br>
 text<br>
 </details>
