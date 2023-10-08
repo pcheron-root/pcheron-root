@@ -28,7 +28,6 @@ This project is about creating a simple shell.<br><br>
 </details>
 <details>
 <summary>ALGO</summary>
-<!-- <strong>push_swap</strong><br> -->
 [push_swap](https://github.com/pcheron-root/push_swap)<br>
 In this project, we have to sort data on a stack,<br>
 with a limited set of instructions,<br>
