@@ -13,39 +13,55 @@
 
 <details>
 <summary>GRAPHIC</summary>
+
 <strong>fractol</strong><br>
-text<br>
+This project is about creating graphically fractals<br><br>
+
 <strong>miniRT</strong><br>
-text<br>
+This project is an introduction to RayTracing<br>
+We have to render simple Computed-Generated-Images<br><br>
+
 </details>
 <details>
 <summary>UNIX</summary>
+
 <strong>pipex</strong><br>
 The aim of the project is to reproduce operation of pipes in C.<br>
-We also discover many UNIX concept like parent/child process or file descriptor duplication.<br>
+We also discover many UNIX concept like parent/child process or file descriptor duplication.<br><br>
+
 <strong>minishell</strong><br>
 This project is about creating a simple shell.<br><br>
+
 </details>
 <details>
 <summary>ALGO</summary>
-[push_swap](https://github.com/pcheron-root/push_swap)<br>
+
+<strong>push_swap<br>
 In this project, we have to sort data on a stack,<br>
 with a limited set of instructions,<br>
 using the smallest possible number of actions,<br>
 for an optimized data sorting.<br><br>
+
 <strong>modules C++</strong><br>
 text<br>
+
 </details>
 <details>
 <summary>NETWORK</summary>
+
 <strong>born2beroot</strong><br>
-text<br>
+This project aims to introduce you to the world of virtualization.<br>
+I created my first virtual machine with VirtualBox.<br><br>
+
 <strong>inception</strong><br>
-text<br>
+text<br><br>
+
 <strong>webserv</strong><br>
-text<br>
+text<br><br>
+
 <strong>transcendance</strong><br>
-text<br>
+text<br><br>
+
 </details>
 
 <h3 align="left">Connect with me:</h3>
