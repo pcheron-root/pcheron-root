@@ -1,35 +1,35 @@
 <h1 align="center">👋 Hi, I'm Pablo</h1>
 <h3 align="center">A passionate developer studying at 42 Paris</h3>
 
-- 🔭 I’m currently working on **miniRT 42 project.**
+- 🔭 I’m currently working on **Ray Tracing 42 project.**
 
-- 🌱 I’m currently learning **ray tracing algorithms and optimization methods.**
-
-- 👯 I’m looking to collaborate on **miniRT 42 project.**
-
-- 🤝 I’m looking for help with **miniRT 42 project.**
-
-- 🏫 Some of my 42 projects are available here :
-
-<div align="left">
-
-<a href="https://github.com/pcheron-root/push_swap">
-    <img src="https://github.com/pcheron-root/pcheron-root/raw/main/img/push_swap.png" alt="push_swap">
-  </a>
-<a href="https://github.com/pcheron-root/pipex">
-    <img src="https://github.com/pcheron-root/pcheron-root/raw/main/img/pipex.png" alt="pipex">
-  </a>
-
-<!-- 
-- 👨‍💻 Some of my projects are available at [https://github.com/pcheron-root?tab=repositories](https://github.com/pcheron-root?tab=repositories)
--->
-</div>
-
-- 💬 Ask me about **UNIX processes and branchless programming, I'm well-versed.**
+- 🌱 I’m currently learning **Cuda(Nvidia) and optimization methods.**
 
 - 📫 How to reach me **pablo.cheron@proton.me**
 
-- ⚡ Fun fact **I know all the jokes with a rabbit and a bear**
+Here is my 42 roadmap :
+
+![image](https://github.com/pcheron-root/pcheron-root/assets/126467996/f2fe6e4b-cd49-4fbf-b118-680bb14f600e)
+
+<details>
+<summary>GRAPHIC</summary>
+**fractol**
+test
+**miniRT**
+
+</details>
+<details>
+<summary>UNIX</summary>
+Contenu que vous voulez masquer initialement, mais qui sera révélé lorsque le menu sera déroulé.
+</details>
+<details>
+<summary>ALGO</summary>
+Contenu que vous voulez masquer initialement, mais qui sera révélé lorsque le menu sera déroulé.
+</details>
+<details>
+<summary>NETWORK</summary>
+Contenu que vous voulez masquer initialement, mais qui sera révélé lorsque le menu sera déroulé.
+</details>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
