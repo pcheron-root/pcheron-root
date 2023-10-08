@@ -13,35 +13,35 @@
 
 <details>
 <summary>GRAPHIC</summary>
-<strong>fractol</strong>
-text
-<strong>miniRT</strong>
-text
+<strong>fractol</strong><br>
+text<br>
+<strong>miniRT</strong><br>
+text<br>
 </details>
 <details>
 <summary>UNIX</summary>
-<strong>pipex</strong>
-text
-<strong>minishell</strong>
-text
+<strong>pipex</strong><br>
+text<br>
+<strong>minishell</strong><br>
+text<br>
 </details>
 <details>
 <summary>ALGO</summary>
-<strong>push_swap</strong>
-text
-<strong>modules C++</strong>
-text
+<strong>push_swap</strong><br>
+text<br>
+<strong>modules C++</strong><br>
+text<br>
 </details>
 <details>
 <summary>NETWORK</summary>
-<strong>born2beroot</strong>
-text
-<strong>inception</strong>
-text
-<strong>webserv</strong>
-text
-<strong>transcendance</strong>
-text
+<strong>born2beroot</strong><br>
+text<br>
+<strong>inception</strong><br>
+text<br>
+<strong>webserv</strong><br>
+text<br>
+<strong>transcendance</strong><br>
+text<br>
 </details>
 
 <h3 align="left">Connect with me:</h3>
