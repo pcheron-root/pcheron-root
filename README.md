@@ -13,22 +13,35 @@
 
 <details>
 <summary>GRAPHIC</summary>
-__fractol__
-test
-**miniRT**
-
+<strong>fractol</strong>
+text
+<strong>miniRT</strong>
+text
 </details>
 <details>
 <summary>UNIX</summary>
-Contenu que vous voulez masquer initialement, mais qui sera révélé lorsque le menu sera déroulé.
+<strong>pipex</strong>
+text
+<strong>minishell</strong>
+text
 </details>
 <details>
 <summary>ALGO</summary>
-Contenu que vous voulez masquer initialement, mais qui sera révélé lorsque le menu sera déroulé.
+<strong>push_swap</strong>
+text
+<strong>modules C++</strong>
+text
 </details>
 <details>
 <summary>NETWORK</summary>
-Contenu que vous voulez masquer initialement, mais qui sera révélé lorsque le menu sera déroulé.
+<strong>born2beroot</strong>
+text
+<strong>inception</strong>
+text
+<strong>webserv</strong>
+text
+<strong>transcendance</strong>
+text
 </details>
 
 <h3 align="left">Connect with me:</h3>
