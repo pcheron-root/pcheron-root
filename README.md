@@ -9,7 +9,7 @@
 
 - 🚀 Here is my 42 roadmap : <br>
     on this chart, each circle represents a project from 42 commun core
-    (I've only included the most interesting projects).
+    (I've only included the most interesting projects). <br>
 ![image](https://github.com/pcheron-root/pcheron-root/assets/126467996/f2fe6e4b-cd49-4fbf-b118-680bb14f600e)
 
 <details>
