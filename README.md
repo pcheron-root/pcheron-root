@@ -1,9 +1,7 @@
 <h1 align="center">👋 Hi, I'm Pablo</h1>
 <h3 align="center">A passionate developer studying at 42 Paris</h3>
 
-- 🔭 I’m currently working on **Ray Tracing 42 project.**
-
-- 🌱 I’m currently learning **Cuda(Nvidia) and optimization methods.**
+- 🌱 I’m currently learning **Data engineering.**
 
 - 📫 How to reach me **pablo.cheron@proton.me**
 
